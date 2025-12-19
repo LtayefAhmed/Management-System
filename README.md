@@ -162,5 +162,5 @@ GET    /api/livraisons/chercher
 
 ## Support
 
-If you need help running the project, open an issue or contact the repository owner.
+If you need help running the project, open an issue or contact me.
 
